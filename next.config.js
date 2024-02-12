@@ -8,6 +8,15 @@ const nextConfig = {
       "cdn.builder.io",
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/",
+        destination: "/home",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
