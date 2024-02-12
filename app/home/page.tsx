@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function page(props) {
+function page() {
   return (
     <div className="flex flex-col">
       <div className="flex flex-col justify-center w-full bg-sky-950 max-md:max-w-full">
