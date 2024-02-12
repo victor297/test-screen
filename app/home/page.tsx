@@ -66,8 +66,8 @@ function page(props) {
                   Rent Your Ideal Apartment
                 </div>
                 <div className="self-stretch mt-2 text-base leading-5 text-zinc-600">
-                  Once you've found the apartment of your dreams, simply follow
-                  the easy steps to secure your rental.
+                  Once you&apos;ve found the apartment of your dreams, simply
+                  follow the easy steps to secure your rental.
                 </div>
               </div>
             </div>
@@ -116,9 +116,9 @@ function page(props) {
                 </div>{" "}
                 <div className="mt-5 text-xl leading-8 text-gray-200 max-md:max-w-full">
                   Tired of chasing late rent, giving endless reminders, and
-                  struggling to find tenants for your properties? It's time for
-                  a change! Join Xamp today and experience stress-free property
-                  management.
+                  struggling to find tenants for your properties? It&apos;s time
+                  for a change! Join Xamp today and experience stress-free
+                  property management.
                 </div>
                 <div className="justify-center self-start px-9 py-5 mt-10 text-base leading-6 text-white whitespace-nowrap bg-sky-800 shadow-sm rounded-[40px] max-md:px-5">
                   Get Started
